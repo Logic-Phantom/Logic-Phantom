@@ -41,7 +41,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Logic-Phantom&theme=2077" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Logic-Phantom&theme=2077" />
-  <img src="https://streak-stats.demolab.com?user=Logic-Phantom&theme=gruvbox&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=Logic-Phantom&show_icons=true&theme=calm&hide_border=true" />
 </p>
 
