@@ -5,7 +5,6 @@
 
 <p align="center">
   <a href="https://logic-phantom.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-%2312100E.svg?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/LoginPhantom"><img src="https://img.shields.io/github/followers/LoginPhantom?label=Follow&style=social" alt="GitHub Followers"></a>
 </p>
 
 ---
