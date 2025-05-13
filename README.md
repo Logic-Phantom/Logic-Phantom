@@ -44,7 +44,7 @@
 | 프로젝트 | 설명 | 기술 스택 |
 |----------|------|-----------|
 | [**Converter-Figma**](https://github.com/LoginPhantom/Converter-Figma) | Figma 디자인을 `.clx` XML + JS 파일로 자동 변환하는 도구 | Java, XML, Figma API |
-| [**Techlog Blog**](https://github.com/LoginPhantom/Techlog) | React 기반 개발 블로그 | Jekyll, Markdown, GitHub Pages |
+| [**Techlog Blog**](https://github.com/LoginPhantom/Techlog) | React 기반 기술 블로그 | React,Gatsby, Markdown, GitHub Pages |
 | [**UI-Detector**](https://github.com/Logic-Phantom/UI-Detector) | 이미지 내 UI 요소 탐지 시스템 | Python, OpenAI Model (YOLOv5) |
 
 > 👉 더 많은 저장소는 [github.com/LoginPhantom](https://github.com/LoginPhantom)에서 확인하실 수 있어요.
