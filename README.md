@@ -1,4 +1,4 @@
-<h1 align="center">🕶️ LoginPhantom</h1>
+<h1 align="center">👻 LoginPhantom</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Code%20is%20my%20playground;%20Clean%20code%20is%20my%20style;&center=true&width=440&height=45">
 </p>
