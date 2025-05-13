@@ -22,7 +22,7 @@
 ### 🔗 연결하기 (Connect with Me)
 
 - 📝 **블로그**: [logic-phantom.github.io](https://logic-phantom.github.io/)
-- 📧 **이메일**: dlacoaud92@naver.com
+- 📧 **이메일**: dlacoaud92@naver.com , dlacoaud96@gmail.com
 
 ---
 
