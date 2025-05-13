@@ -29,13 +29,13 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,html,css,figma,python,git,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,html,css,react,gatsby,figma,python,git,github&perline=8" />
 </p>
 
 - **Languages**: Java, JavaScript, TypeScript, Python  
-- **Frameworks**: Spring, JSP  
+- **Frameworks**: Spring, JSP ,React
 - **Design Tools**: Figma API, Custom XML/JS Converter  
-- **Etc**: GitHub Actions, Jekyll, RESTful APIs  
+- **Etc**: GitHub Actions, Jekyll, RESTful APIs ,Gatsby 
 
 ---
 
