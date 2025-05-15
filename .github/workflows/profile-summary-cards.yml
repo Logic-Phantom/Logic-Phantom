@@ -9,8 +9,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 커밋 권한 필요
     steps:
       - uses: actions/checkout@v3
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: Logic-Phantom
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
