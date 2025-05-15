@@ -10,9 +10,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # ✅ 이거 꼭 있어야 함!
+      contents: write
     steps:
       - uses: actions/checkout@v3
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: Logic-Phantom
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # ✅ 인증 문제 방지용
