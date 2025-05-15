@@ -2,7 +2,7 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 매일 자정
+    - cron: '0 0 * * *'
   push:
     branches: [ main ]
 
@@ -10,10 +10,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # 커밋 권한 필요
+      contents: write  # ✅ 이거 꼭 있어야 함!
     steps:
       - uses: actions/checkout@v3
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: Logic-Phantom
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
