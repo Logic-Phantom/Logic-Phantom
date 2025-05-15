@@ -23,7 +23,7 @@
 
 ### 🔗 Contact
 
-- 📝 [블로그](https://logic-phantom.github.io/)
+- 📝 [기술블로그](https://logic-phantom.github.io/)
 - 📧 dlacoaud92@naver.com / dlacoaud96@gmail.com
 
 ---
