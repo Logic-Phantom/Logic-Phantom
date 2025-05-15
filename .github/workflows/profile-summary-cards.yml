@@ -19,7 +19,7 @@ jobs:
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: Logic-Phantom
-          GITHUB_TOKEN: ${{ secrets.MY_PAT }} 
+          GITHUB_TOKEN: ${{ secrets.MY_PAT }} #테스트
           UTC_OFFSET: 9
 
       - name: Commit and push changes
