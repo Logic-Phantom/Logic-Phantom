@@ -1,22 +1,32 @@
-name: GitHub Profile Summary Cards
+name: Update GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # 매일 자정에 실행
   push:
-    branches: [ main ]
+    branches:
+      - main
 
 jobs:
-  build:
+  update-profile-cards:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      contents: write  # 저장소에 커밋할 권한 필요
       actions: read
-      checks: read
-      issues: read
-      pull-requests: read
     steps:
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: Logic-Phantom
+          UTC_OFFSET: 9   # 한국 시간 기준 (옵션)
 
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output/
+          git commit -m "Update profile summary cards [skip ci]" || echo "No changes to commit"
+          git push
