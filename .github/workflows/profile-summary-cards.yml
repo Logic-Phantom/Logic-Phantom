@@ -20,7 +20,7 @@ jobs:
         with:
           USERNAME: Logic-Phantom
           UTC_OFFSET: 9
-          AUTO_PUSH: true  
+          AUTO_PUSH: false  
 
       - name: Commit and push changes
         if: steps['github-profile-summary-cards'].outputs.changes == 'true'  # 변경 있을 때만 푸시하려면
