@@ -10,16 +10,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-       contents: read
-       actions: read
-       checks: read
-       issues: read
-       pull-requests: read
-       metadata: read
-       workflows: read
+      contents: read
+      actions: read
+      checks: read
+      issues: read
+      pull-requests: read
+      metadata: read
+      workflows: read
     steps:
       - uses: actions/checkout@v3
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: Logic-Phantom
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+          GITHUB_TOKEN: ${{ secrets.MY_PAT }}
