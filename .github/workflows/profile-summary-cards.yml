@@ -13,6 +13,9 @@ jobs:
     permissions:
       contents: write
 
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 또는 개인 PAT를 여기로 넣어도 됨
+
     steps:
       - uses: actions/checkout@v3
 
@@ -20,13 +23,13 @@ jobs:
         with:
           USERNAME: Logic-Phantom
           UTC_OFFSET: 9
-          AUTO_PUSH: false  
+          AUTO_PUSH: false
 
       - name: Commit and push changes
-        if: steps['github-profile-summary-cards'].outputs.changes == 'true'  # 변경 있을 때만 푸시하려면
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add profile-summary-card-output/
           git commit -m "Update profile summary cards [skip ci]" || echo "No changes to commit"
           git push
+
