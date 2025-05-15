@@ -2,26 +2,25 @@ name: Update GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 매일 자정에 실행
+    - cron: '0 0 * * *'
   push:
     branches:
       - main
 
 jobs:
-  update-profile-cards:
+  build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # 저장소에 커밋할 권한 필요
-      actions: read
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      contents: write
 
-      - name: Generate Profile Summary Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: Logic-Phantom
-          UTC_OFFSET: 9   # 한국 시간 기준 (옵션)
+          GITHUB_TOKEN: ${{ secrets.MY_PAT }}    # 이 부분 꼭 넣어야 합니다.
+          UTC_OFFSET: 9
 
       - name: Commit and push changes
         run: |
