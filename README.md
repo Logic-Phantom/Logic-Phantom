@@ -19,7 +19,7 @@
 - 🛠 **디자인 시스템 자동화**와 **UI 코드 생성기**에 관심
 - 🎯 **Figma → XML(.clx) 자동 변환기** 개발 경험 보유
 - ⚙️ 생산성과 일관성을 동시에 추구하는 개발자
-- 📱 **기술 블로그 PWA 지원**: 모바일 설치 및 오프라인 열람 가능
+- 📱 **기술 블로그 PWA 지원**: 모바일 설치 및 오프라인 열람
 ---
 
 ### 🔗 Contact
@@ -29,11 +29,14 @@
 
 ---
 
-### 🧰 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,figma,python,html,css,git,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,gatsby,html,css&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,githubactions&theme=dark" />
 </p>
+
 
 ---
 
