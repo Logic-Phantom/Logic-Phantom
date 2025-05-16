@@ -54,7 +54,7 @@
 | 프로젝트 | 설명 | 주요 기술 |
 |----------|------|-----------|
 | [🎨 Converter-Figma](https://github.com/Logic-Phantom/Converter-Figma) | **Figma 디자인을 CLEOPATRA XML(`.clx`) + JavaScript 코드로 자동 변환**하는 도구. 디자인과 개발의 간극을 줄이는 **UI 자동화 툴**로, 반복적인 수작업 코딩을 최소화합니다. | Java, XML, Figma API |
-| [📝 Techlog Blog](https://github.com/Login-Phantom/Techlog) | **Gatsby 기반 기술 블로그**로, 개발 여정을 기록하고 지식을 나누는 공간입니다. GitHub Actions 기반 CI/CD와 PWA 적용으로 **빠르고 최적화된 정적 블로그**를 제공합니다. | React, Gatsby, GitHub Pages |
+| [📝 Techlog Blog](https://github.com/Logic-Phantom/Techlog) | **Gatsby 기반 기술 블로그**로, 개발 여정을 기록하고 지식을 나누는 공간입니다. GitHub Actions 기반 CI/CD와 PWA 적용으로 **빠르고 최적화된 정적 블로그**를 제공합니다. | React, Gatsby, GitHub Pages |
 | [🧠 UI-Detector](https://github.com/Logic-Phantom/UI-Detector) | **이미지 기반 UI 요소 탐지 및 분류**를 수행하는 딥러닝 기반 프로젝트. YOLOv5 모델을 활용해 실제 업무 화면에서 **버튼, 입력창, 텍스트 등**을 자동 라벨링합니다. | Python, YOLOv5 |
 
 > 👀 더 많은 프로젝트는 [GitHub](https://github.com/LoginPhantom)에서!
