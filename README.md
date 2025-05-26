@@ -25,9 +25,9 @@
 ### 🔗 Contact
 
 - 📝 [기술블로그](https://logic-phantom.github.io/)
-- 📧 dlacoaud92@naver.com / dlacoaud96@gmail.com
 - 💌 [모바일 청첩장 템플릿](https://invitation-dusky-psi.vercel.app/)
 - 🔥 [감정 쓰레기통(앱)](https://github.com/Logic-Phantom/EmotiBurn)
+- 📧 dlacoaud92@naver.com / dlacoaud96@gmail.com
 ---
 
 ## 🛠 Tech Stack
