@@ -22,18 +22,6 @@
 
 ---
 
-### 💼 Featured Projects  
-
-| 프로젝트 | 설명 |
-|----------|------|
-| [🎨 Converter-Figma](https://github.com/Logic-Phantom/Converter-Figma) | **Figma 디자인 → CLEOPATRA XML + JS 자동 변환** |
-| [📝 Techlog Blog](https://github.com/Logic-Phantom/Techlog) | **Gatsby 기반 기술 블로그 & PWA** |
-| [🔥 EmotiBurn](https://github.com/Logic-Phantom/EmotiBurn) | **감정을 불태워 정화하는 모바일 앱** |
-
-👉 [더 많은 프로젝트 보기](https://github.com/LoginPhantom)
-
----
-
 ### 📊 GitHub Stats  
 
 <p align="center">
