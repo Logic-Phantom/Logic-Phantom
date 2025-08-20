@@ -37,7 +37,7 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Logic-Phantom&show_icons=true&theme=calm&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Logic-Phantom&theme=tokyo-night" />
 </p>
 
 ---
