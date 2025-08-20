@@ -1,4 +1,4 @@
-<h1 align="center">👻 LogicPhantom</h1>
+<h1 align="center">Logic-Phantom</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Code%20is%20my%20playground;%20Clean%20architecture%20is%20my%20philosophy;&center=true&width=480&height=45">
 </p>
@@ -6,10 +6,10 @@
 ---
 
 ### 👾 About Me  
-> **“조용히 만들고, 과감히 세상에 내놓는다.”**
+> **“Build quietly, launch boldly.”**
 
-- 🧭 **풀스택 개발자 · 클린 아키텍처 지향**  
-- ⚙️ **UI 자동화 · 디자인 시스템 최적화**에 몰입  
+- 🧭 **Full-stack developer · Advocate of Clean Architecture**  
+- ⚙️ Passionate about **UI automation & design system optimization**  
 
 ---
 
@@ -36,4 +36,4 @@
 
 ---
 
-> 💬 *"코드는 곧 나의 철학이다."*
+> 💬 *"Code is my philosophy."*
