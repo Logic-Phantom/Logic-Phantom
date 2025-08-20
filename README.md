@@ -1,15 +1,16 @@
-<h1 align="center">Logic-Phantom</h1>
+<h1 align="center">Logic_Phantom</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code%20is%20my%20playground;%20Clean%20architecture%20is%20my%20philosophy;&center=true&width=480&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring%20code%20like%20a%20forest;%20Designing%20systems%20with%20clarity;&center=true&width=520&height=45">
 </p>
 
 ---
 
 ### 👾 About Me  
-> **“Build quietly, launch boldly.”**
+> **“In the vast forest of code, I seek clarity and carve paths for scalable growth.”**
 
-- 🧭 **Full-stack developer · Advocate of Clean Architecture**  
-- ⚙️ Passionate about **UI automation & design system optimization**  
+- 🧭 **Full-stack developer transforming ideas into robust systems**  
+- ⚙️ Passionate about **automation, clean architecture, and design harmony**  
+- 🌱 Advocate of **growth through simplicity, consistency, and innovation**  
 
 ---
 
@@ -36,4 +37,4 @@
 
 ---
 
-> 💬 *"Code is my philosophy."*
+> 💬 *"Code is not just logic — it’s a philosophy of growth."*
