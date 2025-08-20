@@ -1,16 +1,15 @@
-<h1 align="center">👻 LoginPhantom</h1>
+<h1 align="center">👻 LogicPhantom</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code%20is%20my%20playground;%20Clean%20code%20is%20my%20style;&center=true&width=440&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code%20is%20my%20playground;%20Clean%20architecture%20is%20my%20philosophy;&center=true&width=480&height=45">
 </p>
 
 ---
 
 ### 👾 About Me  
-> **“조용히 코딩하고, 과감히 배포한다.”**  
+> **“조용히 만들고, 과감히 세상에 내놓는다.”**
 
-- 🧭 **클린 아키텍처 지향 풀스택 개발자**  
-- 🛠 **UI 자동화 & 디자인 시스템**에 관심  
-- 🎯 **Figma → XML(.clx) 변환기** 개발 경험  
+- 🧭 **풀스택 개발자 · 클린 아키텍처 지향**  
+- ⚙️ **UI 자동화 · 디자인 시스템 최적화**에 몰입  
 
 ---
 
@@ -22,19 +21,19 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Logic-Phantom&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Logic-Phantom&theme=react-dark&bg_color=0a0a0a&hide_border=true" />
 </p>
 
 ---
 
-### 🔗 Contact  
+### 🔗 Connect  
 
-- 📝 [기술블로그](https://logic-phantom.github.io/)  
+- 📝 [Tech Blog](https://logic-phantom.github.io/)  
 - 📧 dlacoaud92@naver.com / dlacoaud96@gmail.com  
 
 ---
 
-> 💬 *"코드는 당신의 철학을 말보다 더 잘 말해준다."*
+> 💬 *"코드는 곧 나의 철학이다."*
