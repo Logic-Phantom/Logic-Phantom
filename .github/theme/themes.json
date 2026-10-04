@@ -1,0 +1,257 @@
+[
+  {
+    "id": "violet-phantom",
+    "name": "Violet Phantom",
+    "font": "JetBrains Mono",
+    "fontSize": 30,
+    "accent": { "dark": "8B5CF6", "light": "7C3AED" },
+    "badge": "7C3AED",
+    "gradient": ["7C3AED", "06B6D4"],
+    "banner": { "type": "none" },
+    "cards": { "dark": "github_dark", "light": "github" },
+    "icons": "dark",
+    "emoji": { "about": "👾", "stack": "🧰", "insights": "📊", "graph": "🐍", "connect": "🔗" },
+    "snake": {
+      "dark": { "color": "#8b5cf6", "dots": ["#2e1065", "#5b21b6", "#7c3aed", "#c4b5fd"] },
+      "light": { "color": "#7c3aed", "dots": ["#ddd6fe", "#a78bfa", "#7c3aed", "#4c1d95"] }
+    }
+  },
+  {
+    "id": "tokyo-night",
+    "name": "Tokyo Night",
+    "font": "Fira Code",
+    "fontSize": 30,
+    "accent": { "dark": "7AA2F7", "light": "3D59A1" },
+    "badge": "3D59A1",
+    "gradient": ["7AA2F7", "BB9AF7", "F7768E"],
+    "banner": { "type": "waving", "height": 110 },
+    "cards": { "dark": "tokyonight", "light": "github" },
+    "icons": "dark",
+    "emoji": { "about": "🌃", "stack": "🛠️", "insights": "📈", "graph": "🐍", "connect": "🌐" },
+    "snake": {
+      "dark": { "color": "#bb9af7", "dots": ["#24283b", "#3d59a1", "#7aa2f7", "#c0caf5"] },
+      "light": { "color": "#9854f1", "dots": ["#c0caf5", "#7aa2f7", "#3d59a1", "#1a1b26"] }
+    }
+  },
+  {
+    "id": "dracula",
+    "name": "Dracula",
+    "font": "Space Mono",
+    "fontSize": 28,
+    "accent": { "dark": "BD93F9", "light": "644AC9" },
+    "badge": "6272A4",
+    "gradient": ["FF79C6", "BD93F9", "8BE9FD"],
+    "banner": { "type": "slice", "height": 100 },
+    "cards": { "dark": "dracula", "light": "github" },
+    "icons": "dark",
+    "emoji": { "about": "🧛", "stack": "🔮", "insights": "📊", "graph": "🐍", "connect": "📡" },
+    "snake": {
+      "dark": { "color": "#ff79c6", "dots": ["#44475a", "#6272a4", "#bd93f9", "#ff79c6"] },
+      "light": { "color": "#ff79c6", "dots": ["#e9d5ff", "#c084fc", "#a855f7", "#7e22ce"] }
+    }
+  },
+  {
+    "id": "nord-aurora",
+    "name": "Nord Aurora",
+    "font": "Inter",
+    "fontSize": 30,
+    "accent": { "dark": "88C0D0", "light": "5E81AC" },
+    "badge": "5E81AC",
+    "gradient": ["5E81AC", "88C0D0", "A3BE8C"],
+    "banner": { "type": "none" },
+    "cards": { "dark": "nord_dark", "light": "nord_bright" },
+    "icons": "light",
+    "emoji": { "about": "❄️", "stack": "🧊", "insights": "📐", "graph": "🐍", "connect": "🧭" },
+    "snake": {
+      "dark": { "color": "#88c0d0", "dots": ["#3b4252", "#4c566a", "#5e81ac", "#88c0d0"] },
+      "light": { "color": "#5e81ac", "dots": ["#d8dee9", "#88c0d0", "#5e81ac", "#2e3440"] }
+    }
+  },
+  {
+    "id": "rose-pine",
+    "name": "Rosé Pine",
+    "font": "Outfit",
+    "fontSize": 30,
+    "accent": { "dark": "EBBCBA", "light": "B4637A" },
+    "badge": "B4637A",
+    "gradient": ["EB6F92", "EBBCBA", "C4A7E7"],
+    "banner": { "type": "waving", "height": 120 },
+    "cards": { "dark": "rose_pine", "light": "moltack" },
+    "icons": "light",
+    "emoji": { "about": "🌹", "stack": "🪴", "insights": "🔭", "graph": "🐍", "connect": "💌" },
+    "snake": {
+      "dark": { "color": "#eb6f92", "dots": ["#26233a", "#524f67", "#c4a7e7", "#ebbcba"] },
+      "light": { "color": "#b4637a", "dots": ["#f2e9e1", "#d7827e", "#b4637a", "#575279"] }
+    }
+  },
+  {
+    "id": "synthwave",
+    "name": "Synthwave '84",
+    "font": "Orbitron",
+    "fontSize": 24,
+    "accent": { "dark": "FF7EDB", "light": "C026D3" },
+    "badge": "C026D3",
+    "gradient": ["F97E72", "FF7EDB", "36F9F6"],
+    "banner": { "type": "shark", "height": 110 },
+    "cards": { "dark": "synthwave", "light": "swift" },
+    "icons": "dark",
+    "emoji": { "about": "🌆", "stack": "🕹️", "insights": "📼", "graph": "🐍", "connect": "📻" },
+    "snake": {
+      "dark": { "color": "#36f9f6", "dots": ["#34294f", "#7b2d8e", "#ff7edb", "#fede5d"] },
+      "light": { "color": "#c026d3", "dots": ["#fbcfe8", "#f472b6", "#db2777", "#831843"] }
+    }
+  },
+  {
+    "id": "solarized",
+    "name": "Solarized",
+    "font": "IBM Plex Mono",
+    "fontSize": 30,
+    "accent": { "dark": "2AA198", "light": "268BD2" },
+    "badge": "268BD2",
+    "gradient": ["268BD2", "2AA198", "859900"],
+    "banner": { "type": "none" },
+    "cards": { "dark": "solarized_dark", "light": "solarized" },
+    "icons": "light",
+    "emoji": { "about": "🌞", "stack": "🧪", "insights": "🧮", "graph": "🐍", "connect": "📮" },
+    "snake": {
+      "dark": { "color": "#cb4b16", "dots": ["#073642", "#0b5e64", "#2aa198", "#93e0d6"] },
+      "light": { "color": "#cb4b16", "dots": ["#eee8d5", "#a7d6cf", "#2aa198", "#1a6b65"] }
+    }
+  },
+  {
+    "id": "gruvbox",
+    "name": "Gruvbox",
+    "font": "Ubuntu Mono",
+    "fontSize": 32,
+    "accent": { "dark": "FABD2F", "light": "AF3A03" },
+    "badge": "D65D0E",
+    "gradient": ["FB4934", "FE8019", "FABD2F"],
+    "banner": { "type": "cylinder", "height": 80 },
+    "cards": { "dark": "gruvbox", "light": "solarized" },
+    "icons": "dark",
+    "emoji": { "about": "🍂", "stack": "🪵", "insights": "📊", "graph": "🐍", "connect": "☕" },
+    "snake": {
+      "dark": { "color": "#fb4934", "dots": ["#3c3836", "#79740e", "#b8bb26", "#fabd2f"] },
+      "light": { "color": "#cc241d", "dots": ["#ebdbb2", "#d79921", "#b57614", "#79740e"] }
+    }
+  },
+  {
+    "id": "neon-2077",
+    "name": "Neon 2077",
+    "font": "Chakra Petch",
+    "fontSize": 30,
+    "accent": { "dark": "FCEE0C", "light": "C2185B" },
+    "badge": "FF2A6D",
+    "gradient": ["FCEE0C", "FF2A6D", "05D9E8"],
+    "banner": { "type": "rect", "height": 10 },
+    "cards": { "dark": "2077", "light": "swift" },
+    "icons": "dark",
+    "emoji": { "about": "🤖", "stack": "🦾", "insights": "📟", "graph": "🐍", "connect": "📡" },
+    "snake": {
+      "dark": { "color": "#05d9e8", "dots": ["#3d3a00", "#8a8500", "#d4cc00", "#fcee0c"] },
+      "light": { "color": "#ff2a6d", "dots": ["#fef9c3", "#facc15", "#ca8a04", "#713f12"] }
+    }
+  },
+  {
+    "id": "deep-ocean",
+    "name": "Deep Ocean",
+    "font": "Sora",
+    "fontSize": 28,
+    "accent": { "dark": "38BDF8", "light": "0284C7" },
+    "badge": "0284C7",
+    "gradient": ["0C4A6E", "0EA5E9", "22D3EE"],
+    "banner": { "type": "waving", "height": 130 },
+    "cards": { "dark": "ocean_dark", "light": "github" },
+    "icons": "dark",
+    "emoji": { "about": "🌊", "stack": "⚓", "insights": "🧭", "graph": "🐍", "connect": "🐚" },
+    "snake": {
+      "dark": { "color": "#22d3ee", "dots": ["#0c4a6e", "#0369a1", "#0ea5e9", "#7dd3fc"] },
+      "light": { "color": "#0369a1", "dots": ["#bae6fd", "#38bdf8", "#0284c7", "#0c4a6e"] }
+    }
+  },
+  {
+    "id": "emerald-forest",
+    "name": "Emerald Forest",
+    "font": "Space Grotesk",
+    "fontSize": 30,
+    "accent": { "dark": "34D399", "light": "059669" },
+    "badge": "059669",
+    "gradient": ["064E3B", "10B981", "A7F3D0"],
+    "banner": { "type": "soft", "height": 90 },
+    "cards": { "dark": "merko", "light": "vue" },
+    "icons": "dark",
+    "emoji": { "about": "🌲", "stack": "🌿", "insights": "📊", "graph": "🐍", "connect": "🍃" },
+    "snake": {
+      "dark": { "color": "#34d399", "dots": ["#064e3b", "#047857", "#10b981", "#6ee7b7"] },
+      "light": { "color": "#047857", "dots": ["#a7f3d0", "#34d399", "#059669", "#064e3b"] }
+    }
+  },
+  {
+    "id": "aura",
+    "name": "Aura",
+    "font": "Manrope",
+    "fontSize": 30,
+    "accent": { "dark": "A277FF", "light": "6D28D9" },
+    "badge": "6D28D9",
+    "gradient": ["A277FF", "61FFCA", "FFCA85"],
+    "banner": { "type": "rounded", "height": 90 },
+    "cards": { "dark": "aura_dark", "light": "github" },
+    "icons": "dark",
+    "emoji": { "about": "✨", "stack": "🪐", "insights": "🔭", "graph": "🐍", "connect": "🛸" },
+    "snake": {
+      "dark": { "color": "#61ffca", "dots": ["#29263c", "#4a3f8a", "#a277ff", "#61ffca"] },
+      "light": { "color": "#6d28d9", "dots": ["#e9d5ff", "#a277ff", "#6d28d9", "#2e1065"] }
+    }
+  },
+  {
+    "id": "monokai-pro",
+    "name": "Monokai Pro",
+    "font": "Source Code Pro",
+    "fontSize": 30,
+    "accent": { "dark": "FFD866", "light": "E14775" },
+    "badge": "E14775",
+    "gradient": ["FF6188", "FC9867", "FFD866", "A9DC76", "78DCE8", "AB9DF2"],
+    "banner": { "type": "none" },
+    "cards": { "dark": "monokai", "light": "default" },
+    "icons": "dark",
+    "emoji": { "about": "🎨", "stack": "🧩", "insights": "📊", "graph": "🐍", "connect": "🔌" },
+    "snake": {
+      "dark": { "color": "#ff6188", "dots": ["#403e41", "#5b595c", "#a9dc76", "#ffd866"] },
+      "light": { "color": "#e14775", "dots": ["#fde68a", "#fbbf24", "#f97316", "#c2410c"] }
+    }
+  },
+  {
+    "id": "catppuccin",
+    "name": "Catppuccin Mocha",
+    "font": "Lexend",
+    "fontSize": 30,
+    "accent": { "dark": "CBA6F7", "light": "8839EF" },
+    "badge": "8839EF",
+    "gradient": ["F5C2E7", "CBA6F7", "89B4FA"],
+    "banner": { "type": "waving", "height": 100 },
+    "cards": { "dark": "material_palenight", "light": "github" },
+    "icons": "dark",
+    "emoji": { "about": "🐱", "stack": "🍮", "insights": "📊", "graph": "🐍", "connect": "💌" },
+    "snake": {
+      "dark": { "color": "#f5c2e7", "dots": ["#313244", "#585b70", "#cba6f7", "#f5c2e7"] },
+      "light": { "color": "#ea76cb", "dots": ["#dce0e8", "#cba6f7", "#8839ef", "#5c1fae"] }
+    }
+  },
+  {
+    "id": "graphite",
+    "name": "Graphite Mono",
+    "font": "Geist Mono",
+    "fontSize": 30,
+    "accent": { "dark": "E6EDF3", "light": "1F2328" },
+    "badge": "1F2328",
+    "gradient": ["1F2328", "8B949E", "E6EDF3"],
+    "banner": { "type": "none" },
+    "cards": { "dark": "github_dark", "light": "graywhite" },
+    "icons": "dark",
+    "emoji": { "about": "🖤", "stack": "⚙️", "insights": "📊", "graph": "🐍", "connect": "🔗" },
+    "snake": {
+      "dark": { "color": "#e6edf3", "dots": ["#21262d", "#484f58", "#8b949e", "#e6edf3"] },
+      "light": { "color": "#24292f", "dots": ["#d0d7de", "#8c959f", "#57606a", "#24292f"] }
+    }
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "id": "nord-aurora",
+  "name": "Nord Aurora",
+  "layout": "terminal",
+  "date": "2026-10-04",
+  "snakeOutputs": [
+    "dist/github-snake.svg?color_snake=#5e81ac&color_dots=#ebedf0,#d8dee9,#88c0d0,#5e81ac,#2e3440",
+    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#88c0d0&color_dots=#161b22,#3b4252,#4c566a,#5e81ac,#88c0d0"
+  ]
+}

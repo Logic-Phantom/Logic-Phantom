@@ -7,6 +7,7 @@ on:
     branches:
       - main
   workflow_dispatch:
+  workflow_call:
 
 concurrency:
   group: snake
@@ -19,13 +20,31 @@ jobs:
       contents: write
 
     steps:
+      # Always read main: when called right after a theme rotation, the triggering sha is stale.
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+          sparse-checkout: .github/theme
+
+      - name: Load today's snake palette
+        id: palette
+        run: |
+          {
+            echo 'outputs<<EOF'
+            if [ -f .github/theme/current.json ]; then
+              python3 -c "import json; print('\n'.join(json.load(open('.github/theme/current.json'))['snakeOutputs']))"
+            else
+              echo 'dist/github-snake.svg'
+              echo 'dist/github-snake-dark.svg?palette=github-dark'
+            fi
+            echo 'EOF'
+          } >> "$GITHUB_OUTPUT"
+
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          outputs: ${{ steps.palette.outputs.outputs }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v5

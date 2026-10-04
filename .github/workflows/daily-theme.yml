@@ -1,0 +1,57 @@
+name: Daily Theme Rotation
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # 03:00 UTC = 12:00 KST
+  workflow_dispatch:
+    inputs:
+      theme:
+        description: 'Theme id to apply (see .github/theme/themes.json). Leave blank for today''s rotation.'
+        required: false
+        default: ''
+      layout:
+        description: 'Layout to apply (classic, dashboard, hero, minimal, terminal). Leave blank for today''s rotation.'
+        required: false
+        default: ''
+
+concurrency:
+  group: daily-theme
+  cancel-in-progress: false
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Render README with today's theme
+        id: render
+        run: |
+          python3 .github/theme/render.py
+          echo "name=$(python3 -c "import json; c = json.load(open('.github/theme/current.json')); print(f\"{c['name']} × {c['layout']}\")")" >> "$GITHUB_OUTPUT"
+        env:
+          THEME: ${{ inputs.theme }}
+          LAYOUT: ${{ inputs.layout }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md .github/theme/current.json
+          if git diff --cached --quiet; then
+            echo "Theme unchanged — nothing to commit"
+            exit 0
+          fi
+          git commit -m "🎨 Daily theme: ${{ steps.render.outputs.name }} [skip ci]"
+          git pull --rebase origin main
+          git push origin HEAD:main
+
+  # Pushes made with GITHUB_TOKEN don't trigger other workflows, so recolour the snake explicitly.
+  snake:
+    needs: rotate
+    permissions:
+      contents: write
+    uses: ./.github/workflows/snake.yml

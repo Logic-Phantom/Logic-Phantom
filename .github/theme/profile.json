@@ -1,0 +1,45 @@
+{
+  "username": "Logic-Phantom",
+  "displayName": "Logic_Phantom",
+  "heroDesc": "Full-stack developer · Seoul",
+  "typingLines": [
+    "Hi, I'm Logic_Phantom",
+    "Full-stack developer based in Seoul",
+    "Exploring code like a forest",
+    "Designing systems with clarity"
+  ],
+  "badges": [
+    { "label": "Seoul,_KR", "color": "1f2328", "logo": "googlemaps", "alt": "Seoul" },
+    { "label": "Full--stack", "color": "accent", "alt": "Full-stack" }
+  ],
+  "quote": "In the vast forest of code, I seek clarity and carve paths for scalable growth.",
+  "about": [
+    { "icon": "🧭", "text": "Full-stack developer turning ideas into **robust, maintainable systems**" },
+    { "icon": "⚙️", "text": "Driven by **automation, clean architecture, and design harmony**" },
+    { "icon": "🌱", "text": "Growing through **simplicity, consistency, and steady iteration**" },
+    { "icon": "✍️", "text": "Writing about what I learn at **[logic-phantom.github.io](https://logic-phantom.github.io/)**" }
+  ],
+  "whoami": {
+    "var": "logicPhantom",
+    "fields": {
+      "role": "Full-stack developer",
+      "base": "Seoul, KR",
+      "builds": "robust, maintainable systems",
+      "drivenBy": ["automation", "clean architecture", "design harmony"],
+      "growsThrough": ["simplicity", "consistency", "steady iteration"],
+      "writesAt": "https://logic-phantom.github.io/"
+    }
+  },
+  "stack": [
+    { "label": "Languages", "icons": ["ts", "js", "java", "python", "html", "css"], "alt": "TypeScript, JavaScript, Java, Python, HTML, CSS" },
+    { "label": "Backend", "icons": ["spring", "nodejs", "mysql", "postgres"], "alt": "Spring, Node.js, MySQL, PostgreSQL" },
+    { "label": "Frontend", "icons": ["react", "nextjs", "flutter", "tailwind"], "alt": "React, Next.js, Flutter, Tailwind CSS" },
+    { "label": "Tooling", "icons": ["git", "github", "githubactions", "docker", "figma"], "alt": "Git, GitHub, GitHub Actions, Docker, Figma" }
+  ],
+  "links": [
+    { "label": "Tech_Blog", "color": "1f2328", "logo": "githubpages", "href": "https://logic-phantom.github.io/", "alt": "Tech Blog" },
+    { "label": "Gmail", "color": "EA4335", "logo": "gmail", "href": "mailto:dlacoaud96@gmail.com", "alt": "Gmail" },
+    { "label": "Naver", "color": "03C75A", "logo": "naver", "href": "mailto:dlacoaud92@naver.com", "alt": "Naver Mail" }
+  ],
+  "footerQuote": "Code is not just logic — it's a philosophy of growth."
+}
