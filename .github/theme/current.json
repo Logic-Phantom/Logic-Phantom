@@ -1,10 +1,10 @@
 {
-  "id": "nord-aurora",
-  "name": "Nord Aurora",
-  "layout": "terminal",
-  "date": "2026-10-04",
+  "id": "neon-2077",
+  "name": "Neon 2077",
+  "layout": "classic",
+  "date": "2026-10-05",
   "snakeOutputs": [
-    "dist/github-snake.svg?color_snake=#5e81ac&color_dots=#ebedf0,#d8dee9,#88c0d0,#5e81ac,#2e3440",
-    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#88c0d0&color_dots=#161b22,#3b4252,#4c566a,#5e81ac,#88c0d0"
+    "dist/github-snake.svg?color_snake=#ff2a6d&color_dots=#ebedf0,#fef9c3,#facc15,#ca8a04,#713f12",
+    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#05d9e8&color_dots=#161b22,#3d3a00,#8a8500,#d4cc00,#fcee0c"
   ]
 }
