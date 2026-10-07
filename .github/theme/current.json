@@ -1,10 +1,10 @@
 {
-  "id": "synthwave",
-  "name": "Synthwave '84",
-  "layout": "hero",
-  "date": "2026-10-06",
+  "id": "rose-pine",
+  "name": "Rosé Pine",
+  "layout": "dashboard",
+  "date": "2026-10-07",
   "snakeOutputs": [
-    "dist/github-snake.svg?color_snake=#c026d3&color_dots=#ebedf0,#fbcfe8,#f472b6,#db2777,#831843",
-    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#36f9f6&color_dots=#161b22,#34294f,#7b2d8e,#ff7edb,#fede5d"
+    "dist/github-snake.svg?color_snake=#b4637a&color_dots=#ebedf0,#f2e9e1,#d7827e,#b4637a,#575279",
+    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#eb6f92&color_dots=#161b22,#26233a,#524f67,#c4a7e7,#ebbcba"
   ]
 }
