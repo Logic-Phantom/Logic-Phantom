@@ -1,10 +1,10 @@
 {
-  "id": "violet-phantom",
-  "name": "Violet Phantom",
-  "layout": "terminal",
-  "date": "2026-10-09",
+  "id": "emerald-forest",
+  "name": "Emerald Forest",
+  "layout": "minimal",
+  "date": "2026-10-10",
   "snakeOutputs": [
-    "dist/github-snake.svg?color_snake=#7c3aed&color_dots=#ebedf0,#ddd6fe,#a78bfa,#7c3aed,#4c1d95",
-    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#8b5cf6&color_dots=#161b22,#2e1065,#5b21b6,#7c3aed,#c4b5fd"
+    "dist/github-snake.svg?color_snake=#047857&color_dots=#ebedf0,#a7f3d0,#34d399,#059669,#064e3b",
+    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#34d399&color_dots=#161b22,#064e3b,#047857,#10b981,#6ee7b7"
   ]
 }
