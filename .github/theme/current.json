@@ -1,10 +1,10 @@
 {
-  "id": "catppuccin",
-  "name": "Catppuccin Mocha",
-  "layout": "classic",
-  "date": "2026-10-11",
+  "id": "solarized",
+  "name": "Solarized",
+  "layout": "dashboard",
+  "date": "2026-10-12",
   "snakeOutputs": [
-    "dist/github-snake.svg?color_snake=#ea76cb&color_dots=#ebedf0,#dce0e8,#cba6f7,#8839ef,#5c1fae",
-    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#f5c2e7&color_dots=#161b22,#313244,#585b70,#cba6f7,#f5c2e7"
+    "dist/github-snake.svg?color_snake=#cb4b16&color_dots=#ebedf0,#eee8d5,#a7d6cf,#2aa198,#1a6b65",
+    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#cb4b16&color_dots=#161b22,#073642,#0b5e64,#2aa198,#93e0d6"
   ]
 }
