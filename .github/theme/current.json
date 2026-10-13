@@ -1,10 +1,10 @@
 {
-  "id": "solarized",
-  "name": "Solarized",
-  "layout": "dashboard",
-  "date": "2026-10-12",
+  "id": "deep-ocean",
+  "name": "Deep Ocean",
+  "layout": "hero",
+  "date": "2026-10-13",
   "snakeOutputs": [
-    "dist/github-snake.svg?color_snake=#cb4b16&color_dots=#ebedf0,#eee8d5,#a7d6cf,#2aa198,#1a6b65",
-    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#cb4b16&color_dots=#161b22,#073642,#0b5e64,#2aa198,#93e0d6"
+    "dist/github-snake.svg?color_snake=#0369a1&color_dots=#ebedf0,#bae6fd,#38bdf8,#0284c7,#0c4a6e",
+    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#22d3ee&color_dots=#161b22,#0c4a6e,#0369a1,#0ea5e9,#7dd3fc"
   ]
 }
