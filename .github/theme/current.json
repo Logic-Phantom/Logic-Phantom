@@ -1,10 +1,10 @@
 {
-  "id": "aura",
-  "name": "Aura",
-  "layout": "minimal",
-  "date": "2026-10-14",
+  "id": "dracula",
+  "name": "Dracula",
+  "layout": "dashboard",
+  "date": "2026-10-15",
   "snakeOutputs": [
-    "dist/github-snake.svg?color_snake=#6d28d9&color_dots=#ebedf0,#e9d5ff,#a277ff,#6d28d9,#2e1065",
-    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#61ffca&color_dots=#161b22,#29263c,#4a3f8a,#a277ff,#61ffca"
+    "dist/github-snake.svg?color_snake=#ff79c6&color_dots=#ebedf0,#e9d5ff,#c084fc,#a855f7,#7e22ce",
+    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#ff79c6&color_dots=#161b22,#44475a,#6272a4,#bd93f9,#ff79c6"
   ]
 }
