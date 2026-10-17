@@ -1,10 +1,10 @@
 {
-  "id": "gruvbox",
-  "name": "Gruvbox",
-  "layout": "hero",
-  "date": "2026-10-16",
+  "id": "monokai-pro",
+  "name": "Monokai Pro",
+  "layout": "terminal",
+  "date": "2026-10-17",
   "snakeOutputs": [
-    "dist/github-snake.svg?color_snake=#cc241d&color_dots=#ebedf0,#ebdbb2,#d79921,#b57614,#79740e",
-    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#fb4934&color_dots=#161b22,#3c3836,#79740e,#b8bb26,#fabd2f"
+    "dist/github-snake.svg?color_snake=#e14775&color_dots=#ebedf0,#fde68a,#fbbf24,#f97316,#c2410c",
+    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#ff6188&color_dots=#161b22,#403e41,#5b595c,#a9dc76,#ffd866"
   ]
 }
