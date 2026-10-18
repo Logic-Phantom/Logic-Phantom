@@ -1,10 +1,10 @@
 {
-  "id": "monokai-pro",
-  "name": "Monokai Pro",
-  "layout": "terminal",
-  "date": "2026-10-17",
+  "id": "graphite",
+  "name": "Graphite Mono",
+  "layout": "classic",
+  "date": "2026-10-18",
   "snakeOutputs": [
-    "dist/github-snake.svg?color_snake=#e14775&color_dots=#ebedf0,#fde68a,#fbbf24,#f97316,#c2410c",
-    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#ff6188&color_dots=#161b22,#403e41,#5b595c,#a9dc76,#ffd866"
+    "dist/github-snake.svg?color_snake=#24292f&color_dots=#ebedf0,#d0d7de,#8c959f,#57606a,#24292f",
+    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#e6edf3&color_dots=#161b22,#21262d,#484f58,#8b949e,#e6edf3"
   ]
 }
