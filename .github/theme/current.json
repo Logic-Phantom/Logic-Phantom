@@ -1,10 +1,10 @@
 {
-  "id": "graphite",
-  "name": "Graphite Mono",
-  "layout": "classic",
-  "date": "2026-10-18",
+  "id": "aura",
+  "name": "Aura",
+  "layout": "dashboard",
+  "date": "2026-10-19",
   "snakeOutputs": [
-    "dist/github-snake.svg?color_snake=#24292f&color_dots=#ebedf0,#d0d7de,#8c959f,#57606a,#24292f",
-    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#e6edf3&color_dots=#161b22,#21262d,#484f58,#8b949e,#e6edf3"
+    "dist/github-snake.svg?color_snake=#6d28d9&color_dots=#ebedf0,#e9d5ff,#a277ff,#6d28d9,#2e1065",
+    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#61ffca&color_dots=#161b22,#29263c,#4a3f8a,#a277ff,#61ffca"
   ]
 }
