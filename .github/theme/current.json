@@ -1,10 +1,10 @@
 {
-  "id": "deep-ocean",
-  "name": "Deep Ocean",
-  "layout": "terminal",
-  "date": "2026-10-21",
+  "id": "nord-aurora",
+  "name": "Nord Aurora",
+  "layout": "minimal",
+  "date": "2026-10-22",
   "snakeOutputs": [
-    "dist/github-snake.svg?color_snake=#0369a1&color_dots=#ebedf0,#bae6fd,#38bdf8,#0284c7,#0c4a6e",
-    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#22d3ee&color_dots=#161b22,#0c4a6e,#0369a1,#0ea5e9,#7dd3fc"
+    "dist/github-snake.svg?color_snake=#5e81ac&color_dots=#ebedf0,#d8dee9,#88c0d0,#5e81ac,#2e3440",
+    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#88c0d0&color_dots=#161b22,#3b4252,#4c566a,#5e81ac,#88c0d0"
   ]
 }
