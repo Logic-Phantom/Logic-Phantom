@@ -1,10 +1,10 @@
 {
-  "id": "nord-aurora",
-  "name": "Nord Aurora",
-  "layout": "minimal",
-  "date": "2026-10-22",
+  "id": "monokai-pro",
+  "name": "Monokai Pro",
+  "layout": "hero",
+  "date": "2026-10-23",
   "snakeOutputs": [
-    "dist/github-snake.svg?color_snake=#5e81ac&color_dots=#ebedf0,#d8dee9,#88c0d0,#5e81ac,#2e3440",
-    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#88c0d0&color_dots=#161b22,#3b4252,#4c566a,#5e81ac,#88c0d0"
+    "dist/github-snake.svg?color_snake=#e14775&color_dots=#ebedf0,#fde68a,#fbbf24,#f97316,#c2410c",
+    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#ff6188&color_dots=#161b22,#403e41,#5b595c,#a9dc76,#ffd866"
   ]
 }
