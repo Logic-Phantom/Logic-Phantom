@@ -1,10 +1,10 @@
 {
-  "id": "monokai-pro",
-  "name": "Monokai Pro",
-  "layout": "hero",
-  "date": "2026-10-23",
+  "id": "violet-phantom",
+  "name": "Violet Phantom",
+  "layout": "dashboard",
+  "date": "2026-10-24",
   "snakeOutputs": [
-    "dist/github-snake.svg?color_snake=#e14775&color_dots=#ebedf0,#fde68a,#fbbf24,#f97316,#c2410c",
-    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#ff6188&color_dots=#161b22,#403e41,#5b595c,#a9dc76,#ffd866"
+    "dist/github-snake.svg?color_snake=#7c3aed&color_dots=#ebedf0,#ddd6fe,#a78bfa,#7c3aed,#4c1d95",
+    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#8b5cf6&color_dots=#161b22,#2e1065,#5b21b6,#7c3aed,#c4b5fd"
   ]
 }
