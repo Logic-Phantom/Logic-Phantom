@@ -1,10 +1,10 @@
 {
-  "id": "graphite",
-  "name": "Graphite Mono",
-  "layout": "terminal",
-  "date": "2026-10-25",
+  "id": "synthwave",
+  "name": "Synthwave '84",
+  "layout": "hero",
+  "date": "2026-10-26",
   "snakeOutputs": [
-    "dist/github-snake.svg?color_snake=#24292f&color_dots=#ebedf0,#d0d7de,#8c959f,#57606a,#24292f",
-    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#e6edf3&color_dots=#161b22,#21262d,#484f58,#8b949e,#e6edf3"
+    "dist/github-snake.svg?color_snake=#c026d3&color_dots=#ebedf0,#fbcfe8,#f472b6,#db2777,#831843",
+    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#36f9f6&color_dots=#161b22,#34294f,#7b2d8e,#ff7edb,#fede5d"
   ]
 }
