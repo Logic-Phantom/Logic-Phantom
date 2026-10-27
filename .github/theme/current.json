@@ -1,10 +1,10 @@
 {
-  "id": "synthwave",
-  "name": "Synthwave '84",
-  "layout": "hero",
-  "date": "2026-10-26",
+  "id": "dracula",
+  "name": "Dracula",
+  "layout": "minimal",
+  "date": "2026-10-27",
   "snakeOutputs": [
-    "dist/github-snake.svg?color_snake=#c026d3&color_dots=#ebedf0,#fbcfe8,#f472b6,#db2777,#831843",
-    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#36f9f6&color_dots=#161b22,#34294f,#7b2d8e,#ff7edb,#fede5d"
+    "dist/github-snake.svg?color_snake=#ff79c6&color_dots=#ebedf0,#e9d5ff,#c084fc,#a855f7,#7e22ce",
+    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#ff79c6&color_dots=#161b22,#44475a,#6272a4,#bd93f9,#ff79c6"
   ]
 }
