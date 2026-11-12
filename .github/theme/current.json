@@ -1,10 +1,10 @@
 {
-  "id": "solarized",
-  "name": "Solarized",
-  "layout": "classic",
-  "date": "2026-11-11",
+  "id": "synthwave",
+  "name": "Synthwave '84",
+  "layout": "minimal",
+  "date": "2026-11-12",
   "snakeOutputs": [
-    "dist/github-snake.svg?color_snake=#cb4b16&color_dots=#ebedf0,#eee8d5,#a7d6cf,#2aa198,#1a6b65",
-    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#cb4b16&color_dots=#161b22,#073642,#0b5e64,#2aa198,#93e0d6"
+    "dist/github-snake.svg?color_snake=#c026d3&color_dots=#ebedf0,#fbcfe8,#f472b6,#db2777,#831843",
+    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#36f9f6&color_dots=#161b22,#34294f,#7b2d8e,#ff7edb,#fede5d"
   ]
 }
