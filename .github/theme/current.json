@@ -1,10 +1,10 @@
 {
-  "id": "synthwave",
-  "name": "Synthwave '84",
-  "layout": "minimal",
-  "date": "2026-11-12",
+  "id": "aura",
+  "name": "Aura",
+  "layout": "classic",
+  "date": "2026-11-13",
   "snakeOutputs": [
-    "dist/github-snake.svg?color_snake=#c026d3&color_dots=#ebedf0,#fbcfe8,#f472b6,#db2777,#831843",
-    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#36f9f6&color_dots=#161b22,#34294f,#7b2d8e,#ff7edb,#fede5d"
+    "dist/github-snake.svg?color_snake=#6d28d9&color_dots=#ebedf0,#e9d5ff,#a277ff,#6d28d9,#2e1065",
+    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#61ffca&color_dots=#161b22,#29263c,#4a3f8a,#a277ff,#61ffca"
   ]
 }
