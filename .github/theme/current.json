@@ -1,10 +1,10 @@
 {
-  "id": "gruvbox",
-  "name": "Gruvbox",
-  "layout": "hero",
-  "date": "2026-11-16",
+  "id": "emerald-forest",
+  "name": "Emerald Forest",
+  "layout": "terminal",
+  "date": "2026-11-17",
   "snakeOutputs": [
-    "dist/github-snake.svg?color_snake=#cc241d&color_dots=#ebedf0,#ebdbb2,#d79921,#b57614,#79740e",
-    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#fb4934&color_dots=#161b22,#3c3836,#79740e,#b8bb26,#fabd2f"
+    "dist/github-snake.svg?color_snake=#047857&color_dots=#ebedf0,#a7f3d0,#34d399,#059669,#064e3b",
+    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#34d399&color_dots=#161b22,#064e3b,#047857,#10b981,#6ee7b7"
   ]
 }
