@@ -1,10 +1,10 @@
 {
-  "id": "nord-aurora",
-  "name": "Nord Aurora",
-  "layout": "hero",
-  "date": "2026-11-18",
+  "id": "graphite",
+  "name": "Graphite Mono",
+  "layout": "terminal",
+  "date": "2026-11-19",
   "snakeOutputs": [
-    "dist/github-snake.svg?color_snake=#5e81ac&color_dots=#ebedf0,#d8dee9,#88c0d0,#5e81ac,#2e3440",
-    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#88c0d0&color_dots=#161b22,#3b4252,#4c566a,#5e81ac,#88c0d0"
+    "dist/github-snake.svg?color_snake=#24292f&color_dots=#ebedf0,#d0d7de,#8c959f,#57606a,#24292f",
+    "dist/github-snake-dark.svg?palette=github-dark&color_snake=#e6edf3&color_dots=#161b22,#21262d,#484f58,#8b949e,#e6edf3"
   ]
 }
